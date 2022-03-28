@@ -1,0 +1,18 @@
+# jemdoc: menu{MENU}{Talks.html} 
+= Ke Sun | INRIA | Research
+
+
+== Information-Theoretic Data Injection Attacks on the Smart Grid 
+
+
+- Outline: Using information-theoretic measures to quantify security in cyber-physical systems, in particular data injection attacks in the smart grid. Random matrix theory tools were used to analyze the performance of the attack under imperfect system model knowledge conditions, which led to the derivation of bounds on the performance of the attacks for non-asymptotic scenarios and of closed-form expressions for the asymptotic case.
+
+- Collaborator: [https://www.sheffield.ac.uk/acse/people/ie/index Dr. Iñaki Esnaola], [http://www-sop.inria.fr/members/Samir.Perlaza/ Dr. Samir M. Perlaza], [https://scholar.google.com/citations?user=AZ3SaZgAAAAJ&hl=en Prof. Antonia M. Tulino], and [https://ee.princeton.edu/people/h-vincent-poor Prof. H. Vincent Poor]
+
+
+
+== Circular 4.0: Data Driven Intelligence for a Circular Economy
+
+- Outline: This research aims to identify how data from products in use can inform intelligent decisions surrounding the implementation of circular economy strategies within manufacturing. Leveraging information-theoretic and data science tools, we (i) develop stochastic models for the data streams, (ii) provide quantitative measure for the amount information conveyed by data streams, and (iii) propose guidelines for optimal acquisition/sensing of the data stream based on the measure. Industrial collaborators include Rolls-Royce, Airbus, and Riversimple.
+
+- Collaborator: [https://www.sheffield.ac.uk/acse/people/ie/index Dr. Iñaki Esnaola], [https://www.sheffield.ac.uk/acse/people/atiwari/profile Prof. Ashutosh Tiwari], [http://business-school.exeter.ac.uk/about/people/profile/index.php?web_id=Fiona_Charnley Prof. Fiona Charnley], and [https://business-school.exeter.ac.uk/about/people/profile/index.php?web_id=Okechukwu_Okorie Dr. Okechukwu Okorie]
