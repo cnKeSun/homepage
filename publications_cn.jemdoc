@@ -1,0 +1,43 @@
+# jemdoc: menu{MENU}{publications_cn.html}
+= 孙轲  | 法国国家信息与自动化研究所 | 论文发表
+ 
+== 预印论文
+
+- *K. Sun*, I. Esnaola, A. M. Tulino and H. V. Poor, [http://arxiv.org/abs/2112.14698 ``*Asymptotic learning requirements for stealth attacks*''], IEEE Trans. Smart Grid, Mar. 2022.(resubmitted after revision)
+
+
+== 图书章节
+
+- I. Esnaola, S. M. Perlaza, and *K. Sun*, [https://hal.archives-ouvertes.fr/hal-03129791/document  ``*Data-Injection Attacks,*''] in [https://www.cambridge.org/core/books/advanced-data-analytics-for-power-systems/D24A86B960FDF7A08687D9D1B853948C ``*Advanced Data Analytics for Power Systems*''], A. Tajer, S. M. Perlaza and H. V. Poor, Eds., Chapter 9, pp. 197-229, Cambridge University Press, Cambridge, UK, 2021.
+
+== 期刊论文
+
+- *K. Sun*, I. Esnaola, O. Okorie, F. Charnley, M. Moreno, A. Tiwari, [https://www.sciencedirect.com/science/article/pii/S0360319921020899 ''*Data-driven modeling and monitoring of fuel cell performance*''], International Journal of Hydrogen Energy, vol. 46, no. 66, pp. 33206-33217, Sep. 2021. (中科院2区，JCR Q2, IF = 5.816)
+
+- *K. Sun*, I. Esnaola, S. M. Perlaza, and H. V. Poor, [https://ieeexplore.ieee.org/document/8799014 ''*Stealth attacks on the smart grid*,"] IEEE Trans. Smart Grid,  vol. 11 , no. 2, pp. 1276-1285, Mar. 2020. (中科院1区，JCR Q1, IF = 8.960)
+
+== 会议论文
+
+- *K. Sun*, I. Esnaola, A. M. Tulino and H. V. Poor, [https://ieeexplore.ieee.org/document/8682919 ''*Learning requirements for stealth attacks*"], in Proc. IEEE Int. Conf. on Acoust., Speech, and Signal Process., Brighton, UK, May 2019, pp. 8102-8106. (*邀稿*)
+
+-  *K. Sun*, I. Esnaola, S. M. Perlaza, and H. V. Poor, [https://ieeexplore.ieee.org/document/8340708 ''*Information-theoretic attacks in the smart grid,*"] in Proc. IEEE Int. Conf. on Smart Grid Commun., Dresden, Germany, Oct. 2017, pp. 455-460.
+
+
+- Z. Yu, W. Shao, H. Qu, *K. Sun*, and W. Xu, [https://link.springer.com/chapter/10.1007/978-3-662-46463-2_38  ''*A comparative study of pricing control algorithms in deregulated electricity market*,"] in Proc. of Chinese Intelligent Automation Conf., Fuzhou, China, Jan. 2015, pp. 373-381.
+
+- *K. Sun*, W. Shao, Z. Xu, and W. Xu, [https://ieeexplore.ieee.org/document/7009285  ''*Islanding partition of the distribution system with distributed generations based on Memetic algorithm,*"] in Proc. IEEE Int. Conf. on Systems and Informatics, Shanghai, China, Nov. 2014, pp. 197-201.
+
+
+== 海报
+
+-  I. Esnaola, *K. Sun*, R. Boynton, and M. A. Balikhin, ``What are the solar wind parameters that control fluxes of relativistic electrons at GEO?'', in AGU Fall Meeting, Dec. 2020. 
+
+- *K. Sun*, [https://www.researchgate.net/publication/344215823_An_Information-Theoretic_Approach_to_Cybersecurity_of_Smart_Grid ''*An information-theoretic approach to cybersecurity of smart grid*''], in Proc. 9th National Doctoral Researcher Awards Competition, Virtual Conference, Sep. 2020.
+
+- *K. Sun*, I. Esnaola, A. M. Tulino and H. V. Poor, [https://www.researchgate.net/publication/335222390_Learning_Requirements_for_Stealth_Attacks ''*Learning requirements for stealth attacks*"], in Proc. 5th London Symp. on Inform. Theory , London, UK, May 2019.
+
+
+== 毕业论文
+
+- *K. Sun*, [http://etheses.whiterose.ac.uk/25738/ “*Information-theoretic data injection attacks on the smart grid*,”] Ph.D. dissertation, Dept. of Automatic Control and Systems Eng., Univ. of Sheffield, Sheffield, UK, Jan. 2020.
+

@@ -1,0 +1,31 @@
+# jemdoc: menu{MENU}{Talks.html} 
+= 孙轲 | 法国国家信息与自动化研究所 | 研究方向
+
+
+== 信息与决策 - IDEM 
+
+- 简介: 该项目进行信息论与博弈论的交叉性基础研究，信息论与博弈论的交叉研究能够对博弈中各方掌握信息进行定量分析。该项目侧重于研究在非精确信息交互下的博弈，在该情景下，博弈各方之间通过一个非理想信道进行信息的交互。该研究由法国国家信息与自动化研究所探索性研究项目支持。[https://www.inria.fr/en/idem Link]
+
+- 合作者:  [http://www-sop.inria.fr/members/Samir.Perlaza/ Dr. Samir M. Perlaza], [http://www-sop.inria.fr/members/Alain.Jean-Marie/ Dr. Alain Jean-Marie]
+
+== 基于信息论的智能电网数据注入攻击
+
+
+- 简介: 以智能电网数据注入攻击为例，使用信息论方法量化信息物理系统的网络安全性。并且运用随机矩
+阵论分析在不完备系统模型的条件下的攻击性能，于非渐近情形以及渐近情况下分别获得攻击性能的理 论上下限以及理论闭合解。
+
+- 合作者: [https://www.sheffield.ac.uk/acse/people/ie/index Dr. Iñaki Esnaola], [http://www-sop.inria.fr/members/Samir.Perlaza/ Dr. Samir M. Perlaza], [https://scholar.google.com/citations?user=AZ3SaZgAAAAJ&hl=en Prof. Antonia M. Tulino], and [https://ee.princeton.edu/people/h-vincent-poor Prof. H. Vincent Poor]
+
+- 代表作: 
+-- *K. Sun*, I. Esnaola, A. M. Tulino and H. V. Poor, [http://arxiv.org/abs/2112.14698 ``*Asymptotic learning requirements for stealth attacks*''], IEEE Trans. Smart Grid, Nov. 2021. 
+-- *K. Sun*, I. Esnaola, S. M. Perlaza, and H. V. Poor, [https://ieeexplore.ieee.org/document/8799014 ''*Stealth attacks on the smart grid*,"] IEEE Trans. Smart Grid,  vol. 11 , no. 2, pp. 1276-1285, Mar. 2020.
+
+== 循环4.0: 基于数据驱动的智能循环经济
+
+- 简介: 研究如何利用制造业产品数据制定相关决策，以促进循环经济策略在制造业中的部署。利用信息论
+以及数据驱动等工具，本研究实现以下目标:(1)提出工业数据流的随机性模型，(2)对数据流中所 含信息量进行定量分析，(3)利用定量分析结果对有效采集及感知工业现场数据提出准则。工业合作者 包括:罗尔斯·罗伊斯公司(Rolls-Royce Holdings plc)，空中客车公司(AirBus)，以及氢能源车 企Riversimple。
+
+- 合作者: [https://www.sheffield.ac.uk/acse/people/ie/index Dr. Iñaki Esnaola], [https://www.sheffield.ac.uk/acse/people/atiwari/profile Prof. Ashutosh Tiwari], [http://business-school.exeter.ac.uk/about/people/profile/index.php?web_id=Fiona_Charnley Prof. Fiona Charnley], and [https://business-school.exeter.ac.uk/about/people/profile/index.php?web_id=Okechukwu_Okorie Dr. Okechukwu Okorie]
+
+- 代表作: 
+-- *K. Sun*, I. Esnaola, O. Okorie, F. Charnley, M. Moreno, A. Tiwari, [https://www.sciencedirect.com/science/article/pii/S0360319921020899 ''*Data-driven modeling and monitoring of fuel cell performance*''], International Journal of Hydrogen Energy, vol. 46, no. 66, pp. 33206-33217, Sep. 2021. 
