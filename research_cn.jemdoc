@@ -11,8 +11,7 @@
 == 基于信息论的智能电网数据注入攻击
 
 
-- 简介: 以智能电网数据注入攻击为例，使用信息论方法量化信息物理系统的网络安全性。并且运用随机矩
-阵论分析在不完备系统模型的条件下的攻击性能，于非渐近情形以及渐近情况下分别获得攻击性能的理 论上下限以及理论闭合解。
+- 简介: 以智能电网数据注入攻击为例，使用信息论方法量化信息物理系统的网络安全性。并且运用随机矩阵论分析在不完备系统模型的条件下的攻击性能，于非渐近情形以及渐近情况下分别获得攻击性能的理 论上下限以及理论闭合解。
 
 - 合作者: [https://www.sheffield.ac.uk/acse/people/ie/index Dr. Iñaki Esnaola], [http://www-sop.inria.fr/members/Samir.Perlaza/ Dr. Samir M. Perlaza], [https://scholar.google.com/citations?user=AZ3SaZgAAAAJ&hl=en Prof. Antonia M. Tulino], and [https://ee.princeton.edu/people/h-vincent-poor Prof. H. Vincent Poor]
 
@@ -22,8 +21,7 @@
 
 == 循环4.0: 基于数据驱动的智能循环经济
 
-- 简介: 研究如何利用制造业产品数据制定相关决策，以促进循环经济策略在制造业中的部署。利用信息论
-以及数据驱动等工具，本研究实现以下目标:(1)提出工业数据流的随机性模型，(2)对数据流中所 含信息量进行定量分析，(3)利用定量分析结果对有效采集及感知工业现场数据提出准则。工业合作者 包括:罗尔斯·罗伊斯公司(Rolls-Royce Holdings plc)，空中客车公司(AirBus)，以及氢能源车 企Riversimple。
+- 简介: 研究如何利用制造业产品数据制定相关决策，以促进循环经济策略在制造业中的部署。利用信息论以及数据驱动等工具，本研究实现以下目标:(1)提出工业数据流的随机性模型，(2)对数据流中所 含信息量进行定量分析，(3)利用定量分析结果对有效采集及感知工业现场数据提出准则。工业合作者 包括:罗尔斯·罗伊斯公司(Rolls-Royce Holdings plc)，空中客车公司(AirBus)，以及氢能源车 企Riversimple。
 
 - 合作者: [https://www.sheffield.ac.uk/acse/people/ie/index Dr. Iñaki Esnaola], [https://www.sheffield.ac.uk/acse/people/atiwari/profile Prof. Ashutosh Tiwari], [http://business-school.exeter.ac.uk/about/people/profile/index.php?web_id=Fiona_Charnley Prof. Fiona Charnley], and [https://business-school.exeter.ac.uk/about/people/profile/index.php?web_id=Okechukwu_Okorie Dr. Okechukwu Okorie]
 
