@@ -1,9 +1,8 @@
 # jemdoc: menu{MENU}{publications.html}
-= Ke Sun  | INRIA |  Publications
+= Ke Sun  | Shanghai University |  Publications
  
 == Preprints 
-
-- *K. Sun*, I. Esnaola, A. M. Tulino and H. V. Poor, [http://arxiv.org/abs/2112.14698 ``*Asymptotic learning requirements for stealth attacks on linearized state estimation*''], IEEE Trans. Smart Grid, Jul. 2022.(resubmitted after revision)
+- *K. Sun*, Samir M. Perlaza, and Alain Jean-Marie, [https://arxiv.org/abs/2211.01703 ``*Zero-sum games with noisy observations*''], preprint, Nov. 2022. 
 
 
 == Book Chapter 
@@ -11,6 +10,8 @@
 - I. Esnaola, S. M. Perlaza, and *K. Sun*, [https://hal.archives-ouvertes.fr/hal-03129791/document  ``*Data-Injection Attacks,*''] in [https://www.cambridge.org/core/books/advanced-data-analytics-for-power-systems/D24A86B960FDF7A08687D9D1B853948C ``*Advanced Data Analytics for Power Systems*''], A. Tajer, S. M. Perlaza and H. V. Poor, Eds., Chapter 9, pp. 197-229, Cambridge University Press, Cambridge, UK, 2021.
 
 == Journals
+
+- *K. Sun*, I. Esnaola, A. M. Tulino and H. V. Poor, [https://ieeexplore.ieee.org/abstract/document/10016663 ``*Asymptotic learning requirements for stealth attacks on linearized state estimation*''], IEEE Trans. Smart Grid, Jan. 2023. 
 
 - *K. Sun* and Z. Li, [https://ieeexplore.ieee.org/document/9771474 ''*Sparse data injection attacks on smart grid: An information-theoretic approach*''], IEEE Sensors Journal, vol. 22, no. 14, pp. 14553 - 14562, Jul. 2022. 
 
@@ -28,6 +29,11 @@
 - Z. Yu, W. Shao, H. Qu, *K. Sun*, and W. Xu, [https://link.springer.com/chapter/10.1007/978-3-662-46463-2_38  ''*A comparative study of pricing control algorithms in deregulated electricity market*,"] in Proc. of Chinese Intelligent Automation Conf., Fuzhou, China, Jan. 2015, pp. 373-381.
 
 - *K. Sun*, W. Shao, Z. Xu, and W. Xu, [https://ieeexplore.ieee.org/document/7009285  ''*Islanding partition of the distribution system with distributed generations based on Memetic algorithm,*"] in Proc. IEEE Int. Conf. on Systems and Informatics, Shanghai, China, Nov. 2014, pp. 197-201.
+
+
+== Technical Reports
+
+- *K. Sun*, [https://hal.science/hal-03852615  ''*Some properties of the Nash Equilibrium in 2 × 2 zero-sum games,*"], RR-9492, INRIA, 2022.
 
 
 == Posters 

@@ -1,9 +1,9 @@
 # jemdoc: menu{MENU}{publications_cn.html}
-= 孙轲  | 法国国家信息与自动化研究所 | 论文发表
+= 孙轲  |  上海大学 | 论文发表
  
 == 预印论文
 
-- *K. Sun*, I. Esnaola, A. M. Tulino and H. V. Poor, [http://arxiv.org/abs/2112.14698 ``*Asymptotic learning requirements for stealth attacks on linearized state estimation*''], IEEE Trans. Smart Grid, Jul. 2022.(resubmitted after revision)
+- *K. Sun*, Samir M. Perlaza, and Alain Jean-Marie, [https://arxiv.org/abs/2211.01703 ``*Zero-sum games with noisy observations*''], preprint, Nov. 2022. 
 
 
 == 图书章节
@@ -11,6 +11,8 @@
 - I. Esnaola, S. M. Perlaza, and *K. Sun*, [https://hal.archives-ouvertes.fr/hal-03129791/document  ``*Data-Injection Attacks,*''] in [https://www.cambridge.org/core/books/advanced-data-analytics-for-power-systems/D24A86B960FDF7A08687D9D1B853948C ``*Advanced Data Analytics for Power Systems*''], A. Tajer, S. M. Perlaza and H. V. Poor, Eds., Chapter 9, pp. 197-229, Cambridge University Press, Cambridge, UK, 2021.
 
 == 期刊论文
+- *K. Sun*, I. Esnaola, A. M. Tulino and H. V. Poor, [https://ieeexplore.ieee.org/abstract/document/10016663 ``*Asymptotic learning requirements for stealth attacks on linearized state estimation*''], IEEE Trans. Smart Grid, Jan. 2023. (中科院1区，JCR Q1, IF = 10.275)
+
 - *K. Sun* and Z. Li, [https://ieeexplore.ieee.org/document/9771474 ''*Sparse data injection attacks on smart grid: An information-theoretic approach*''], IEEE Sensors Journal, vol. 22, no. 14, pp. 14553 - 14562, Jul. 2022. (中科院二区，JCR Q2, IF = 4.325)
 
 
@@ -20,7 +22,7 @@
 
 == 会议论文
 
-- *K. Sun*, I. Esnaola, A. M. Tulino and H. V. Poor, [https://ieeexplore.ieee.org/document/8682919 ''*Learning requirements for stealth attacks*"], in Proc. IEEE Int. Conf. on Acoust., Speech, and Signal Process., Brighton, UK, May 2019, pp. 8102-8106. (*邀稿*)
+- *K. Sun*, I. Esnaola, A. M. Tulino and H. V. Poor, [https://ieeexplore.ieee.org/document/8682919 ''*Learning requirements for stealth attacks*"], in Proc. IEEE Int. Conf. on Acoust., Speech, and Signal Process., Brighton, UK, May 2019, pp. 8102-8106. 
 
 -  *K. Sun*, I. Esnaola, S. M. Perlaza, and H. V. Poor, [https://ieeexplore.ieee.org/document/8340708 ''*Information-theoretic attacks in the smart grid,*"] in Proc. IEEE Int. Conf. on Smart Grid Commun., Dresden, Germany, Oct. 2017, pp. 455-460.
 
@@ -29,6 +31,10 @@
 
 - *K. Sun*, W. Shao, Z. Xu, and W. Xu, [https://ieeexplore.ieee.org/document/7009285  ''*Islanding partition of the distribution system with distributed generations based on Memetic algorithm,*"] in Proc. IEEE Int. Conf. on Systems and Informatics, Shanghai, China, Nov. 2014, pp. 197-201.
 
+
+== 技术报告
+
+- *K. Sun*, [https://hal.science/hal-03852615  ''*Some properties of the Nash Equilibrium in 2 × 2 zero-sum games,*"], RR-9492, INRIA, 2022.
 
 == 海报
 

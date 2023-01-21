@@ -1,13 +1,18 @@
 # jemdoc: menu{MENU}{Talks.html} 
-= Ke Sun | INRIA | Research
+= Ke Sun | Shanghai University | Research
 
 
 == Information and Decision Making - IDEM 
 
-- Outline: This research undertakes fundamental research in applied mathematics at the intersection of
-information theory and game theory. The joint use of these theories allows to quantitatively model agents that possesses different amounts of information. Specifically, classical games are studied under an imperfect information exchange scenario, in which the physical channels through which information is sent is imperfect, e.g. noisy, interference, etc. This research is supported by the Exploratory Action of INRIA. [https://www.inria.fr/en/idem Link]
+- Outline: This research undertakes fundamental research in applied mathematics at the intersection of information theory, game theory and machine learning. 
+Specifically, a dynamic zero-sum game-theoretic model is proposed for the machine learning applications, such as adversarial learning, in which the attacker observes the behaviour of algorithms subjecting to distortion. 
+Furthermore, the connection between the capacity of the observation channel and the corresponding game utility is established via information-theoretic notions. 
+This research is supported by the Exploratory Action of INRIA. [https://www.inria.fr/en/idem Link]
 
 - Collaborator:  [http://www-sop.inria.fr/members/Samir.Perlaza/ Dr. Samir M. Perlaza], [http://www-sop.inria.fr/members/Alain.Jean-Marie/ Dr. Alain Jean-Marie]
+
+- Selected Publications: 
+-- *K. Sun*, Samir M. Perlaza, and Alain Jean-Marie, [https://arxiv.org/abs/2211.01703 ``*Zero-sum games with noisy observations*''], preprint, Nov. 2022. 
 
 == Information-Theoretic Data Injection Attacks on the Smart Grid 
 
@@ -17,7 +22,8 @@ information theory and game theory. The joint use of these theories allows to qu
 - Collaborator: [https://www.sheffield.ac.uk/acse/people/ie/index Dr. Iñaki Esnaola], [http://www-sop.inria.fr/members/Samir.Perlaza/ Dr. Samir M. Perlaza], [https://scholar.google.com/citations?user=AZ3SaZgAAAAJ&hl=en Prof. Antonia M. Tulino], and [https://ee.princeton.edu/people/h-vincent-poor Prof. H. Vincent Poor]
 
 - Selected Publications: 
--- *K. Sun*, I. Esnaola, A. M. Tulino and H. V. Poor, [http://arxiv.org/abs/2112.14698 ``*Asymptotic learning requirements for stealth attacks*''], IEEE Trans. Smart Grid, Nov. 2021. 
+-- *K. Sun*, I. Esnaola, A. M. Tulino and H. V. Poor, [https://ieeexplore.ieee.org/abstract/document/10016663 ``*Asymptotic learning requirements for stealth attacks on linearized state estimation*''], IEEE Trans. Smart Grid, Jan. 2023. 
+-- *K. Sun*,  and Z. Li, [https://ieeexplore.ieee.org/document/9771474 ''*Sparse data injection attacks on smart grid: An information-theoretic approach*''], IEEE Sensors Journal, vol. 22, no. 14, pp. 14553 - 14562, Jul. 2022. 
 -- *K. Sun*, I. Esnaola, S. M. Perlaza, and H. V. Poor, [https://ieeexplore.ieee.org/document/8799014 ''*Stealth attacks on the smart grid*,"] IEEE Trans. Smart Grid,  vol. 11 , no. 2, pp. 1276-1285, Mar. 2020.
 
 == Circular 4.0: Data Driven Intelligence for a Circular Economy
