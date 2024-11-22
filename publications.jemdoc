@@ -5,51 +5,59 @@
 
 == Book Chapter 
 
-- I. Esnaola, S. M. Perlaza, and *K. Sun*, [https://hal.archives-ouvertes.fr/hal-03129791/document  ``*Data-Injection Attacks,*''] in [https://www.cambridge.org/core/books/advanced-data-analytics-for-power-systems/D24A86B960FDF7A08687D9D1B853948C ``*Advanced Data Analytics for Power Systems*''], A. Tajer, S. M. Perlaza and H. V. Poor, Eds., Chapter 9, pp. 197-229, Cambridge University Press, Cambridge, UK, 2021.
+- I. Esnaola, S. M. Perlaza, and *K. Sun*, [https://hal.archives-ouvertes.fr/hal-03129791/document  ``*Data-Injection Attacks*,''] in [https://www.cambridge.org/core/books/advanced-data-analytics-for-power-systems/D24A86B960FDF7A08687D9D1B853948C ``*Advanced Data Analytics for Power Systems*''], A. Tajer, S. M. Perlaza and H. V. Poor, Eds., Chapter 9, pp. 197-229, Cambridge University Press, Cambridge, UK, 2021.
 
 == Journals
 
-- Q. Liu, X. Li, *K. Sun*, Y. Li\*, and Y. Liu\*, [https://ieeexplore.ieee.org/document/10521910 ``*SISSA: Real-time monitoring of hardware functional safety and cybersecurity with in-vehicle SOME/IP ethernet traffic*''], IEEE Internet of Things J., May 2024. 
+- Q. Liu, *K. Sun*, W. Liu, Y. Li\*, X. Zheng, C. Cao, J. Li. and W. Tao, [https://www.sciencedirect.com/science/article/pii/S0951832024006008 ``*Quantitative risk assessment for connected automated vehicles: Integrating improved STPA-SafeSec and Bayesian network*,''] /Reliability Engineering & System Safety/, vol. 253, pp.110528, Jan. 2025.
 
-- Y. Li, C. Huang, Q. Liu, X. Zheng, and *K. Sun\**, [https://www.sciencedirect.com/science/article/abs/pii/S0167404824001925 ``*Integrating security in hazard analysis using STPA-Sec and GSPN: A case study of automatic emergency braking system*''], Computers & Security, May 2024. 
+-  X. Dang, G. Zhang, *K. Sun*, and Y. Li\*, [https://www.sciencedirect.com/science/article/pii/S0167404824001925 ``*A trust model for VANETs using malicious-aware multiple routing*,''] /Computers & Security/,  vol. 148, pp. 104145, Jan. 2025
 
-- *K. Sun\**, I. Esnaola, A. M. Tulino and H. V. Poor, [https://ieeexplore.ieee.org/abstract/document/10016663 ``*Asymptotic learning requirements for stealth attacks on linearized state estimation*''], IEEE Trans. Smart Grid, vol. 14, no. 4, pp. 3189 - 3200, Jul. 2023. 
+- Q. Liu, X. Li, *K. Sun*, Y. Li\*, and Y. Liu\*, [https://ieeexplore.ieee.org/document/10521910 ``*SISSA: Real-time monitoring of hardware functional safety and cybersecurity with in-vehicle SOME\/IP ethernet traffic*,''] /IEEE Internet of Things J/., vol. 11, no. 16, pp.27322-27339, Aug. 2024
 
-- *K. Sun* and Z. Li\*, [https://ieeexplore.ieee.org/document/9771474 ''*Sparse data injection attacks on smart grid: An information-theoretic approach*''], IEEE Sensors Journal, vol. 22, no. 14, pp. 14553 - 14562, Jul. 2022. 
+- Y. Li, C. Huang, Q. Liu, X. Zheng, and *K. Sun\**, [https://www.sciencedirect.com/science/article/abs/pii/S0167404824001925 ``*Integrating security in hazard analysis using STPA-Sec and GSPN: A case study of automatic emergency braking system*,''] /Computers & Security/, vol. 142, pp. 103890, Jul. 2024. 
 
-- *K. Sun\**, I. Esnaola, O. Okorie, F. Charnley, M. Moreno, and A. Tiwari, [https://www.sciencedirect.com/science/article/pii/S0360319921020899 ''*Data-driven modeling and monitoring of fuel cell performance*''], International Journal of Hydrogen Energy, vol. 46, no. 66, pp. 33206-33217, Sep. 2021. 
+- *K. Sun\**, I. Esnaola, A. M. Tulino and H. V. Poor, [https://ieeexplore.ieee.org/abstract/document/10016663 ``*Asymptotic learning requirements for stealth attacks on linearized state estimation*,''] /IEEE Trans. Smart Grid/, vol. 14, no. 4, pp. 3189 - 3200, Jul. 2023. 
 
-- *K. Sun\**, I. Esnaola, S. M. Perlaza, and H. V. Poor, [https://ieeexplore.ieee.org/document/8799014 ''*Stealth attacks on the smart grid*,"] IEEE Trans. Smart Grid,  vol. 11 , no. 2, pp. 1276-1285, Mar. 2020.
+- *K. Sun* and Z. Li\*, [https://ieeexplore.ieee.org/document/9771474 ``*Sparse data injection attacks on smart grid: An information-theoretic approach*,''] /IEEE Sensors Journal/, vol. 22, no. 14, pp. 14553 - 14562, Jul. 2022. 
+
+- *K. Sun\**, I. Esnaola, O. Okorie, F. Charnley, M. Moreno, and A. Tiwari, [https://www.sciencedirect.com/science/article/pii/S0360319921020899 ``*Data-driven modeling and monitoring of fuel cell performance*,''] /International Journal of Hydrogen Energy/, vol. 46, no. 66, pp. 33206-33217, Sep. 2021. 
+
+- *K. Sun\**, I. Esnaola, S. M. Perlaza, and H. V. Poor, [https://ieeexplore.ieee.org/document/8799014 ``*Stealth attacks on the smart grid*,''] /IEEE Trans. Smart Grid/,  vol. 11 , no. 2, pp. 1276-1285, Mar. 2020.
 
 == Conferences
 
-- *K. Sun\**, S. M. Perlaza, and A. Jean-Marie, [https://ieeexplore.ieee.org/abstract/document/10206806 ''*2×2 zero-sum games with commitments and noisy observations*"], in Proc. IEEE Int. Symp. on Information Theory, Taipei, Taiwan, Jun. 2023, pp. 2254 - 2259. 
+- J. Wang, Z. Li\*, *K. Sun*, X. Liu, and Y. Zhou, [https://www.ijcai.org/proceedings/2024/0760.pdf ``*DVPE: Divided view position embedding for multi-view 3Dobject detection,*''] in /Proc. Int. Joint Conf. on Artificial Intelligence (IJCAI)/, Jeju, South Korea, Aug. 2024, pp. 6877 - 6885.
 
-- *K. Sun\**, I. Esnaola, A. M. Tulino and H. V. Poor, [https://ieeexplore.ieee.org/document/8682919 ''*Learning requirements for stealth attacks*"], in Proc. IEEE Int. Conf. on Acoust., Speech, and Signal Process., Brighton, UK, May 2019, pp. 8102-8106. (*invited paper*)
+- D. Li, Y. Li\*, G. Zhang, *K. Sun*, and J. Li, [https://ieeexplore.ieee.org/abstract/document/10538582 ``*Fooling object detectors in the physical world with natural adversarial camouflage,*''] in /Proc. IEEE Conf. on Trust, Security and Privacy in Computing and Communications/, Exeter, UK, Nov. 2023, pp. 141 - 148.
 
--  *K. Sun\**, I. Esnaola, S. M. Perlaza, and H. V. Poor, [https://ieeexplore.ieee.org/document/8340708 ''*Information-theoretic attacks in the smart grid,*"] in Proc. IEEE Int. Conf. on Smart Grid Commun., Dresden, Germany, Oct. 2017, pp. 455-460.
+- *K. Sun\**, S. M. Perlaza, and A. Jean-Marie, [https://ieeexplore.ieee.org/abstract/document/10206806 ``*2×2 zero-sum games with commitments and noisy observations,*''],  in /Proc. IEEE Int. Symp. on Information Theory, Taipei/, Taiwan, Jun. 2023, pp. 2254 - 2259. 
+
+- *K. Sun\**, I. Esnaola, A. M. Tulino and H. V. Poor, [https://ieeexplore.ieee.org/document/8682919 ``*Learning requirements for stealth attacks,*''] in /Proc. IEEE Int. Conf. on Acoust., Speech, and Signal Process./, Brighton, UK, May 2019, pp. 8102-8106. (*invited paper*)
+
+-  *K. Sun\**, I. Esnaola, S. M. Perlaza, and H. V. Poor, [https://ieeexplore.ieee.org/document/8340708 ``*Information-theoretic attacks in the smart grid,*''] in /Proc. IEEE Int. Conf. on Smart Grid Commun./, Dresden, Germany, Oct. 2017, pp. 455-460.
 
 
-- Z. Yu\*, W. Shao, H. Qu, *K. Sun*, and W. Xu, [https://link.springer.com/chapter/10.1007/978-3-662-46463-2_38  ''*A comparative study of pricing control algorithms in deregulated electricity market*,"] in Proc. of Chinese Intelligent Automation Conf., Fuzhou, China, Jan. 2015, pp. 373-381.
+- Z. Yu\*, W. Shao, H. Qu, *K. Sun*, and W. Xu, [https://link.springer.com/chapter/10.1007/978-3-662-46463-2_38  ``*A comparative study of pricing control algorithms in deregulated electricity market*,''] in /Proc. of Chinese Intelligent Automation Conf./, Fuzhou, China, Jan. 2015, pp. 373-381.
 
-- *K. Sun*, W. Shao, Z. Xu, and W. Xu\*, [https://ieeexplore.ieee.org/document/7009285  ''*Islanding partition of the distribution system with distributed generations based on Memetic algorithm,*"] in Proc. IEEE Int. Conf. on Systems and Informatics, Shanghai, China, Nov. 2014, pp. 197-201.
+- *K. Sun*, W. Shao, Z. Xu, and W. Xu\*, [https://ieeexplore.ieee.org/document/7009285  ``*Islanding partition of the distribution system with distributed generations based on Memetic algorithm,*''] in /Proc. IEEE Int. Conf. on Systems and Informatics/, Shanghai, China, Nov. 2014, pp. 197-201.
 
 
 == Technical Reports
 
-- *K. Sun*, [https://hal.science/hal-03852615  ''*Some properties of the Nash Equilibrium in 2 × 2 zero-sum games,*"], RR-9492, INRIA, 2022.
+- *K. Sun*, [https://hal.science/hal-03852615  ``*Some properties of the Nash Equilibrium in 2 × 2 zero-sum games,*''], RR-9492, INRIA, 2022.
 
 
 == Posters 
 
 -  I. Esnaola, *K. Sun*, R. Boynton, and M. A. Balikhin, ``What are the solar wind parameters that control fluxes of relativistic electrons at GEO?'', in AGU Fall Meeting, Dec. 2020. 
 
-- *K. Sun*, [https://www.researchgate.net/publication/344215823_An_Information-Theoretic_Approach_to_Cybersecurity_of_Smart_Grid ''*An information-theoretic approach to cybersecurity of smart grid*''], in Proc. 9th National Doctoral Researcher Awards Competition, Virtual Conference, Sep. 2020.
+- *K. Sun*, [https://www.researchgate.net/publication/344215823_An_Information-Theoretic_Approach_to_Cybersecurity_of_Smart_Grid ``*An information-theoretic approach to cybersecurity of smart grid*''], in Proc. 9th National Doctoral Researcher Awards Competition, Virtual Conference, Sep. 2020.
 
-- *K. Sun*, I. Esnaola, A. M. Tulino and H. V. Poor, [https://www.researchgate.net/publication/335222390_Learning_Requirements_for_Stealth_Attacks ''*Learning requirements for stealth attacks*"], in Proc. 5th London Symp. on Inform. Theory , London, UK, May 2019.
+- *K. Sun*, I. Esnaola, A. M. Tulino and H. V. Poor, [https://www.researchgate.net/publication/335222390_Learning_Requirements_for_Stealth_Attacks ``*Learning requirements for stealth attacks*''], in Proc. 5th London Symp. on Inform. Theory , London, UK, May 2019.
 
 
 == Thesis 
 
-- *K. Sun*, [http://etheses.whiterose.ac.uk/25738/ “*Information-theoretic data injection attacks on the smart grid*,”] Ph.D. dissertation, Dept. of Automatic Control and Systems Eng., Univ. of Sheffield, Sheffield, UK, Jan. 2020.
+- *K. Sun*, [http://etheses.whiterose.ac.uk/25738/ ``*Information-theoretic data injection attacks on the smart grid*,''] Ph.D. dissertation, Dept. of Automatic Control and Systems Eng., Univ. of Sheffield, Sheffield, UK, Jan. 2020.
 
