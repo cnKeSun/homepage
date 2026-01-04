@@ -3,7 +3,9 @@
  
 == Preprint 
 
-- *K. Sun\**, I. Esnaola, and H. V. Poor, [[https://arxiv.org/abs/2411.16024 ``*Stealth Attacks Against Moving Target Defense for Smart Grid*''], 2024.
+- *K. Sun*, J. Yan, Z. Li\*, and S. Xie\*, [[https://arxiv.org/abs/2510.21227 ``*The Role of Information Incompleteness in Defending Against Stealth Attacks*''], 2025. (Submitted to IEEE Trans. Information Forensics and Security)
+
+- *K. Sun\**, I. Esnaola, and H. V. Poor, [[https://arxiv.org/abs/2411.16024 ``*Stealth Attacks Against Moving Target Defense for Smart Grid*''], 2024. (Submitted to IEEE Trans. Information Forensics and Security)
 
 == Book Chapter 
 
@@ -11,11 +13,20 @@
 
 == Journals
 
+- Z. Li, Q. Zhu, Y. Cai, *K. Sun\**, Z. Wang, and Y. Peng, [https://ieeexplore.ieee.org/abstract/document/11071913/ ``*Dynamic Multi-Scale Integration Network with Multivariate Interaction for Probabilistic Sea Surface Temperature Forecasting*,''] /IEEE Trans. Geoscience and Remote Sensing/, vol. 53, pp.4209312, Jul. 2025.
+
+- C. Deng, Y. Li, Q. Liu\*, X. Zheng, *K. Sun\**, [https://onlinelibrary.wiley.com/doi/full/10.1002/qre.3697 ``*Quantitative Risk Assessment for Autonomous Vehicles: Integrating Functional Resonance Analysis Method and Bayesian Network*,''] /Quality and Reliability Engineering International/, vol. 41, no. 3. pp.970 - 991, Apr. 2025. 
+
 - Q. Liu, *K. Sun*, W. Liu, Y. Li\*, X. Zheng, C. Cao, J. Li. and W. Tao, [https://www.sciencedirect.com/science/article/pii/S0951832024006008 ``*Quantitative risk assessment for connected automated vehicles: Integrating improved STPA-SafeSec and Bayesian network*,''] /Reliability Engineering & System Safety/, vol. 253, pp.110528, Jan. 2025.
 
--  X. Dang, G. Zhang, *K. Sun*, and Y. Li\*, [https://www.sciencedirect.com/science/article/pii/S0167404824001925 ``*A trust model for VANETs using malicious-aware multiple routing*,''] /Computers & Security/,  vol. 148, pp. 104145, Jan. 2025
+-  X. Dang, G. Zhang, *K. Sun*, and Y. Li\*, [https://www.sciencedirect.com/science/article/pii/S0167404824004504 ``*A trust model for VANETs using malicious-aware multiple routing*,''] /Computers & Security/,  vol. 148, pp. 104145, Jan. 2025.
 
-- Q. Liu, X. Li, *K. Sun*, Y. Li\*, and Y. Liu\*, [https://ieeexplore.ieee.org/document/10521910 ``*SISSA: Real-time monitoring of hardware functional safety and cybersecurity with in-vehicle SOME\/IP ethernet traffic*,''] /IEEE Internet of Things J/., vol. 11, no. 16, pp.27322-27339, Aug. 2024
+- *K. Sun*, Y. Li, S. Xie\*, and X. Zheng, [http://znaq.ijournals.cn/znaq/article/abstract/20240718002?st=article_issue ``*Vulnerability Mining and Integrated Security Protection Framework for Unmanned Systems*,''] /Artificial Intelligence Security/,  vol. 3, no. 4, pp. 65-71, Dec. 2024. (in Chinese)
+
+
+- Q. Liu, X. Li, *K. Sun*, Y. Li\*, and Y. Liu\*, [https://ieeexplore.ieee.org/document/10521910 ``*SISSA: Real-time monitoring of hardware functional safety and cybersecurity with in-vehicle SOME\/IP ethernet traffic*,''] /IEEE Internet of Things J/., vol. 11, no. 16, pp.27322-27339, Aug. 2024.
+
+- Y. Li, W. Liu, Q. Liu, X. Zheng, *K. Sun\**, C. Huang, [https://www.mdpi.com/1424-8220/24/6/1848`` *Complying with ISO 26262 and ISO\/SAE 21434: A Safety and Security Co-Analysis Method for Intelligent Connected Vehicle*,''] /Sensors/, vol. 24, no. 6, pp.1848, Mar. 2024.
 
 - Y. Li, C. Huang, Q. Liu, X. Zheng, and *K. Sun\**, [https://www.sciencedirect.com/science/article/abs/pii/S0167404824001925 ``*Integrating security in hazard analysis using STPA-Sec and GSPN: A case study of automatic emergency braking system*,''] /Computers & Security/, vol. 142, pp. 103890, Jul. 2024. 
 
@@ -44,20 +55,17 @@
 
 - *K. Sun*, W. Shao, Z. Xu, and W. Xu\*, [https://ieeexplore.ieee.org/document/7009285  ``*Islanding partition of the distribution system with distributed generations based on Memetic algorithm,*''] in /Proc. IEEE Int. Conf. on Systems and Informatics/, Shanghai, China, Nov. 2014, pp. 197-201.
 
+== Patents 
+
+- *K. Sun*, W. Zhang, J. Yan, Z. Li, S. Xie, H. You, Y. Li, and X. Luo, ``*A Low-Cost Moving Target Defense Method Against False Data Injection Attacks,*'' China Patent 202511426221.X, Sep. 30, 2025. (Application Accepted）
+
+
+- *K. Sun*, J. Yan, Z. Li, S. Xie, Y. Li, and X. Luo, [http://epub.cnipa.gov.cn/cred/CN119520110B ``*Construction and Countermeasures of Stealth Data Injection Attacks under Incomplete System Information,*''] China Patent ZL202411673255.4, Oct. 10, 2025. (Issued)
+
 
 == Technical Reports
 
 - *K. Sun*, [https://hal.science/hal-03852615  ``*Some properties of the Nash Equilibrium in 2 × 2 zero-sum games,*''], RR-9492, INRIA, 2022.
-
-
-== Posters 
-
--  I. Esnaola, *K. Sun*, R. Boynton, and M. A. Balikhin, ``What are the solar wind parameters that control fluxes of relativistic electrons at GEO?'', in AGU Fall Meeting, Dec. 2020. 
-
-- *K. Sun*, [https://www.researchgate.net/publication/344215823_An_Information-Theoretic_Approach_to_Cybersecurity_of_Smart_Grid ``*An information-theoretic approach to cybersecurity of smart grid*''], in Proc. 9th National Doctoral Researcher Awards Competition, Virtual Conference, Sep. 2020.
-
-- *K. Sun*, I. Esnaola, A. M. Tulino and H. V. Poor, [https://www.researchgate.net/publication/335222390_Learning_Requirements_for_Stealth_Attacks ``*Learning requirements for stealth attacks*''], in Proc. 5th London Symp. on Inform. Theory , London, UK, May 2019.
-
 
 == Thesis 
 

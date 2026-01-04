@@ -1,41 +1,29 @@
-# jemdoc: menu{MENU}{Talks.html} 
+# jemdoc: menu{MENU}{research.html} 
 = Ke Sun | Shanghai University | Research
 
+== Cybersecurity of Cyber-Physical Systems 
+
+Cyber-Physical Systems (CPSs) are engineered systems that integrate computational elements (cyber systems) with physical processes (physical systems), creating a feedback loop where physical processes are monitored and controlled by computer algorithms. A representative example is the Smart Grid, illustrated in the figure below. While the seamless integration of cyber and physical domains significantly enhances operational efficiency and usability, it also introduces emerging cyberthreats and evolving attack trends.
+{{<section class="card">}}
+{{<img src="Images/CPS.png" alt="Photo of CPS" style="img_left" hspace="80" width="600"> }}\n
+- The asymmetry in which attackers operate in the dark while defenders operate in the open becomes dramatically amplified in CPS environments. Attackers can not only exploit conventional vulnerabilities through prolonged covert infiltration, but also obtain highly system-specific knowledge such as industrial communication protocols and control logic, thereby gaining the capability to launch precise, physically damaging attacks. Meanwhile, defenders often lack clear understanding of how much critical system knowledge the adversary has already acquired. This profound cognitive disadvantage forces defense strategies into a reactive and highly passive position.
+To address this imbalance, it is imperative to transition from passive protection to proactive resilience. *This shift requires constructing realistic attack models, simulating adversarial behaviors, inferring potential unknown attack vectors, and developing corresponding targeted countermeasures*.  
+\n
+*Selected Publications*:
+-- *K. Sun\**, I. Esnaola, A. M. Tulino and H. V. Poor, [https://ieeexplore.ieee.org/abstract/document/10016663 ``*Asymptotic learning requirements for stealth attacks on linearized state estimation*,''] /IEEE Trans. Smart Grid/, vol. 14, no. 4, pp. 3189 - 3200, Jul. 2023. 
+-- *K. Sun* and Z. Li\*, [https://ieeexplore.ieee.org/document/9771474 ``*Sparse data injection attacks on smart grid: An information-theoretic approach*,''] /IEEE Sensors Journal/, vol. 22, no. 14, pp. 14553 - 14562, Jul. 2022. 
+-- *K. Sun\**, I. Esnaola, S. M. Perlaza, and H. V. Poor, [https://ieeexplore.ieee.org/document/8799014 ``*Stealth attacks on the smart grid*,''] /IEEE Trans. Smart Grid/,  vol. 11 , no. 2, pp. 1276-1285, Mar. 2020.
+- The deep integration between cyber and physical components means that threats originating in the cyber domain can directly translate into tangible consequences in the physical world. At its core, CPS embodies the concept of cyber-enabled control, where tampering, spoofing, or disrupting information flows may be propagated through controllers and actuators, ultimately altering real-world system states. Such cross-domain propagation enables a seemingly routine cyber intrusion to escalate into equipment failure, large-scale operational disruption, or even major safety incidents.
+To address these risks, *it is essential to perform integrated and quantifiable risk assessments that jointly consider both cyber vulnerabilities and physical impacts*. \n
+*Selected Publications*:
+-- C. Deng, Y. Li, Q. Liu\*, X. Zheng, *K. Sun\**, [https://onlinelibrary.wiley.com/doi/full/10.1002/qre.3697`` *Quantitative Risk Assessment for Autonomous Vehicles: Integrating Functional Resonance Analysis Method and Bayesian Network*,''] /Quality and Reliability Engineering International/, vol. 41, no. 3. pp.970 - 991, Apr. 2025. 
+-- Q. Liu, *K. Sun*, W. Liu, Y. Li\*, X. Zheng, C. Cao, J. Li. and W. Tao, [https://www.sciencedirect.com/science/article/pii/S0951832024006008 ``*Quantitative risk assessment for connected automated vehicles: Integrating improved STPA-SafeSec and Bayesian network*,''] /Reliability Engineering & System Safety/, vol. 253, pp.110528, Jan. 2025.
+-- Y. Li, C. Huang, Q. Liu, X. Zheng, and *K. Sun\**, [https://www.sciencedirect.com/science/article/abs/pii/S0167404824001925 ``*Integrating security in hazard analysis using STPA-Sec and GSPN: A case study of automatic emergency braking system*,''] /Computers & Security/, vol. 142, pp. 103890, Jul. 2024. 
 
 
 
-== Data Injection Attacks on the Smart Grid 
+== AI Security (one of my new research directions)
 
-
-- Outline: Using information-theoretic measures to quantify cybersecurity in cyber-physical systems, in particular data injection attacks in the smart grid. Random matrix theory tools were used to analyze the performance of the attack under imperfect system model knowledge conditions, which led to the derivation of bounds on the performance of the attacks for non-asymptotic scenarios and of closed-form expressions for the asymptotic case.
-
-- Collaborator: [https://www.sheffield.ac.uk/acse/people/ie/index Dr. Iñaki Esnaola], [http://www-sop.inria.fr/members/Samir.Perlaza/ Dr. Samir M. Perlaza], [https://scholar.google.com/citations?user=AZ3SaZgAAAAJ&hl=en Prof. Antonia M. Tulino], and [https://ee.princeton.edu/people/h-vincent-poor Prof. H. Vincent Poor]
-
-- Selected Publications: 
--- *K. Sun*, I. Esnaola, A. M. Tulino and H. V. Poor, [https://ieeexplore.ieee.org/abstract/document/10016663 ``*Asymptotic learning requirements for stealth attacks on linearized state estimation*''], IEEE Trans. Smart Grid, vol. 14, no. 4, pp. 3189 - 3200, Jul. 2023. 
--- *K. Sun*,  and Z. Li, [https://ieeexplore.ieee.org/document/9771474 ''*Sparse data injection attacks on smart grid: An information-theoretic approach*''], IEEE Sensors Journal, vol. 22, no. 14, pp. 14553 - 14562, Jul. 2022. 
--- *K. Sun*, I. Esnaola, S. M. Perlaza, and H. V. Poor, [https://ieeexplore.ieee.org/document/8799014 ''*Stealth attacks on the smart grid*,"] IEEE Trans. Smart Grid,  vol. 11 , no. 2, pp. 1276-1285, Mar. 2020.
-
-
-
-== Information and Decision Making - IDEM 
-
-- Outline: This research undertakes fundamental research in applied mathematics at the intersection of information theory, game theory and machine learning. 
-Specifically, a dynamic zero-sum game-theoretic model is proposed for the machine learning applications, such as adversarial learning, in which the attacker observes the behaviour of algorithms subjecting to distortion. 
-Furthermore, the connection between the capacity of the observation channel and the corresponding game utility is established via information-theoretic notions. 
-This research is supported by the Exploratory Action of INRIA. [https://www.inria.fr/en/idem Link]
-
-- Collaborator:  [http://www-sop.inria.fr/members/Samir.Perlaza/ Dr. Samir M. Perlaza], [http://www-sop.inria.fr/members/Alain.Jean-Marie/ Dr. Alain Jean-Marie]
-
-- Selected Publications: 
--- *K. Sun*, S. M. Perlaza, and A. Jean-Marie, [https://ieeexplore.ieee.org/abstract/document/10206806 ''*2×2 zero-sum games with commitments and noisy observations*"], in Proc. IEEE Int. Symp. on Information Theory, Taipei, Taiwan, Jun. 2023, pp. 2254 - 2259. 
-
-
-== Circular 4.0: Data Driven Intelligence for a Circular Economy
-
-- Outline: This research aims to identify how data from products in use can inform intelligent decisions surrounding the implementation of circular economy strategies within manufacturing. Leveraging information-theoretic and data science tools, we (i) develop stochastic models for the data streams, (ii) provide quantitative measure for the amount information conveyed by data streams, and (iii) propose guidelines for optimal acquisition/sensing of the data stream based on the measure. Industrial collaborators include Rolls-Royce, Airbus, and Riversimple.
-
-- Collaborator: [https://www.sheffield.ac.uk/acse/people/ie/index Dr. Iñaki Esnaola], [https://www.sheffield.ac.uk/acse/people/atiwari/profile Prof. Ashutosh Tiwari], [http://business-school.exeter.ac.uk/about/people/profile/index.php?web_id=Fiona_Charnley Prof. Fiona Charnley], and [https://business-school.exeter.ac.uk/about/people/profile/index.php?web_id=Okechukwu_Okorie Dr. Okechukwu Okorie]
-
-- Selected Publications: 
--- *K. Sun*, I. Esnaola, O. Okorie, F. Charnley, M. Moreno, A. Tiwari, [https://www.sciencedirect.com/science/article/pii/S0360319921020899 ''*Data-driven modeling and monitoring of fuel cell performance*''], International Journal of Hydrogen Energy, vol. 46, no. 66, pp. 33206-33217, Sep. 2021. 
+- In the current era, artificial intelligence technology is advancing rapidly, and multimodal large models have been widely applied in high-security-demand scenarios such as intelligent driving, smart customer service, content creation, and medical diagnosis. These scenarios impose extremely high requirements on the safety, reliability, and compliance of large models. However, multimodal large models still face systemic endogenous security risks in cross-modal integration, including opaque reasoning, susceptibility to hallucinations in generation, difficulties in value alignment, and challenges in eliminating harmful knowledge. Therefore, there is an urgent need to *conduct collaborative and innovative research from theoretical, technological, and application perspectives to build multimodal large model systems with endogenous safety features*, ensuring their trustworthiness, controllability, and usability throughout their entire lifecycle in dynamic, open, and adversarial environments.\n
+*Selected Publications*:
+-- *K. Sun*, Y. Li, S. Xie\*, and X. Zheng, [http://znaq.ijournals.cn/znaq/article/abstract/20240718002?st=article_issue ``*Vulnerability Mining and Integrated Security Protection Framework for Unmanned Systems*,''] /Artificial Intelligence Security/,  vol. 3, no. 4, pp. 65-71, Dec. 2024. (in Chinese)

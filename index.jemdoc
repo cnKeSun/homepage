@@ -1,11 +1,10 @@
 # jemdoc: menu{MENU}{index.html} 
-= Ke Sun | Shanghai University | Lecturer
-
+= Ke Sun | Shanghai University | Associate Professor
 
 ~~
 {}{img_left}{Images/Ke_Sun.jpg}{Photo of Ke Sun}{241}{300}
 
-*Lecturer* \n
+*Associate Professor* \n
 [https://cs.shu.edu.cn School of Computer Engineering and Science] \n
 [https://www.shu.edu.cn/ Shanghai University]\n 
 Shanghai, China \n
@@ -23,19 +22,24 @@ Shanghai, China \n
 == Contact
 Shanghai University \n
 School of Computer Engineering and Science \n
-No. 333, NanChen Road, Baoshan District, Shanghai, China \n
+Room 423 of Building No. 15, No. 333, NanChen Road, Baoshan District, Shanghai, China \n
 [ke_sun@shu.edu.cn] 
 ~~~
 
 ~~~
 == Research Interests
-My research interest mainly lies in the Cybersecurity of Cyber-Physical Systems (such as Smart Grid, Internet of Vehicles), using theoretical tools (include but not limit to Information Theory, Signal Estimation and Detection, Random Matrix Theory, and Game Theory) to analyze the fundamental limits of cybersecurity.
+My research interest mainly lies in the Cybersecurity of Cyber-Physical Systems (such as Smart Grid, Internet of Vehicles) and Security of Artificial Intelligence (include but not limited to Cross/Multi-modal Learning).
 ~~~
 
 
 == News
+- Dec. 2025, I am prompted to *Associate Professor* within two years. 
 
-- Dec. 2024, I am prompted to the Senior Member grade of IEEE. 
+- Oct. 2025, the manuscript [https://arxiv.org/abs/2510.21227 ``*The Role of Information Incompleteness in Defending Against Stealth Attacks*''] is available on arXiv now. 
+
+- Apr. 2025, I am honored to receive the *First Prize of Shanghai Technology Invention Award* (上海市技术发明奖一等奖, 11/15). 
+
+- Dec. 2024, I am prompted to the *Senior Member* grade of *IEEE*. 
 
 - Nov. 2024, the manuscript [https://arxiv.org/abs/2411.16024 ``*Stealth Attacks Against Moving Target Defense for Smart Grid*''] is available on arXiv now. 
 

@@ -1,36 +1,28 @@
-# jemdoc: menu{MENU}{Talks.html} 
+# jemdoc: menu{MENU}{research_cn.html} 
 = 孙轲 | 上海大学 | 研究方向
 
-== 针对智能电网的数据注入攻击
+== 信息物理系统网络安全
 
-- 简介: 使用信息论方法量化信息物理系统的网络安全性，侧重分析智能电网面临的恶意数据注入攻击。并且运用随机矩阵论分析在不完备系统模型的条件下的攻击性能，于非渐近情形以及渐近情况下分别获得攻击性能的理论上下限以及理论闭合解。
-
-- 合作者: [https://www.sheffield.ac.uk/acse/people/ie/index Dr. Iñaki Esnaola], [http://www-sop.inria.fr/members/Samir.Perlaza/ Dr. Samir M. Perlaza], [https://scholar.google.com/citations?user=AZ3SaZgAAAAJ&hl=en Prof. Antonia M. Tulino], and [https://ee.princeton.edu/people/h-vincent-poor Prof. H. Vincent Poor]
-
-- 代表作: 
--- *K. Sun*, I. Esnaola, A. M. Tulino and H. V. Poor, [https://ieeexplore.ieee.org/abstract/document/10016663 ``*Asymptotic learning requirements for stealth attacks on linearized state estimation*''], IEEE Trans. Smart Grid, vol. 14, no. 4, pp. 3189 - 3200, Jul. 2023. 
--- *K. Sun*,  and Z. Li, [https://ieeexplore.ieee.org/document/9771474 ''*Sparse data injection attacks on smart grid: An information-theoretic approach*''], IEEE Sensors Journal, vol. 22, no. 14, pp. 14553 - 14562, Jul. 2022. 
--- *K. Sun*, I. Esnaola, S. M. Perlaza, and H. V. Poor, [https://ieeexplore.ieee.org/document/8799014 ''*Stealth attacks on the smart grid*,"] IEEE Trans. Smart Grid,  vol. 11 , no. 2, pp. 1276-1285, Mar. 2020.
-
-== 信息与决策 - IDEM 
-
-- 简介: 该项目进行信息论、博弈论、以及机器学习算法的交叉性基础研究。
-针对机器学习算法中可能存在的攻击者（如对抗学习中毒药攻击），本研究建立一套非完备观测情况下的动态零和博弈模型，分析攻击者无法准确观测算法行动的场景。
-并通过信息论的手段建立观测信道容量与博弈收益之间的联系。
-该研究由法国国家信息与自动化研究所探索性研究项目支持。[https://www.inria.fr/en/idem Link]
-
-- 合作者:  [http://www-sop.inria.fr/members/Samir.Perlaza/ Dr. Samir M. Perlaza], [http://www-sop.inria.fr/members/Alain.Jean-Marie/ Dr. Alain Jean-Marie]
-
-- 代表作: 
--- *K. Sun*, S. M. Perlaza, and A. Jean-Marie, [https://ieeexplore.ieee.org/abstract/document/10206806 ''*2×2 zero-sum games with commitments and noisy observations*"], in Proc. IEEE Int. Symp. on Information Theory, Taipei, Taiwan, Jun. 2023, pp. 2254 - 2259. 
+信息物理系统（Cyber-Physical System，CPS）是通过计算单元（信息系统）与物理过程（物理系统）深度融合形成的工程化系统，其通过计算机算法实现对物理过程的监测与控制，并构成闭环反馈。典型案例如下图所示的智能电网。尽管这种跨域的深度融合显著提升了运行效率与可用性，但也催生了新型网络威胁与持续演进的攻击态势。
+{{<section class="card">}}
+{{<img src="Images/CPS.png" alt="Photo of CPS" style="img_left" hspace="80" width="600"> }}\n
+- 在信息物理系统环境中，攻击者隐蔽行动而防御者暴露运作的非对称性被急剧放大。攻击者不仅可通过长期隐蔽渗透利用常规漏洞，更能获取工业通信协议、控制逻辑等高度系统化的专业知识，从而具备发起精确物理破坏性攻击的能力。与此同时，防御方往往对攻击者已掌握多少关键系统知识缺乏清晰认知。这种深刻的认知劣势迫使防御策略陷入被动反应的高度弱势地位。
+为应对这种失衡态势，必须从被动防护转向主动韧性建设。*这一转变需要构建真实攻击模型、模拟对抗行为、推演潜在未知攻击向量，并制定相应的针对性防御措施*。  \n
+*代表性论文*:
+-- *K. Sun\**, I. Esnaola, A. M. Tulino and H. V. Poor, [https://ieeexplore.ieee.org/abstract/document/10016663 ``*Asymptotic learning requirements for stealth attacks on linearized state estimation*,''] /IEEE Trans. Smart Grid/, vol. 14, no. 4, pp. 3189 - 3200, Jul. 2023. 
+-- *K. Sun* and Z. Li\*, [https://ieeexplore.ieee.org/document/9771474 ``*Sparse data injection attacks on smart grid: An information-theoretic approach*,''] /IEEE Sensors Journal/, vol. 22, no. 14, pp. 14553 - 14562, Jul. 2022. 
+-- *K. Sun\**, I. Esnaola, S. M. Perlaza, and H. V. Poor, [https://ieeexplore.ieee.org/document/8799014 ``*Stealth attacks on the smart grid*,''] /IEEE Trans. Smart Grid/,  vol. 11 , no. 2, pp. 1276-1285, Mar. 2020.
+- 信息域与物理域组件的深度融合，意味着源自网络空间的威胁可直接转化为物理世界的可感知的实体后果。信息物理系统的核心在于实现以信息驱动的控制，其中对信息流的篡改、欺骗或破坏可能通过控制器与执行器传播，最终改变现实系统的运行状态。这种跨域传导使得看似常规的网络入侵可能升级为设备故障、大规模运行中断乃至重大安全事故。
+为此，*亟需开展一体化的、可量化的风险评估，统筹考量网络安全漏洞与物理影响之间的关联*。\n
+*代表性论文*:
+-- C. Deng, Y. Li, Q. Liu\*, X. Zheng, *K. Sun\**, [https://onlinelibrary.wiley.com/doi/full/10.1002/qre.3697`` *Quantitative Risk Assessment for Autonomous Vehicles: Integrating Functional Resonance Analysis Method and Bayesian Network*,''] /Quality and Reliability Engineering International/, vol. 41, no. 3. pp.970 - 991, Apr. 2025. 
+-- Q. Liu, *K. Sun*, W. Liu, Y. Li\*, X. Zheng, C. Cao, J. Li. and W. Tao, [https://www.sciencedirect.com/science/article/pii/S0951832024006008 ``*Quantitative risk assessment for connected automated vehicles: Integrating improved STPA-SafeSec and Bayesian network*,''] /Reliability Engineering & System Safety/, vol. 253, pp.110528, Jan. 2025.
+-- Y. Li, C. Huang, Q. Liu, X. Zheng, and *K. Sun\**, [https://www.sciencedirect.com/science/article/abs/pii/S0167404824001925 ``*Integrating security in hazard analysis using STPA-Sec and GSPN: A case study of automatic emergency braking system*,''] /Computers & Security/, vol. 142, pp. 103890, Jul. 2024. 
 
 
 
-== 循环4.0: 基于数据驱动的智能循环经济
+== 人工智能安全（新开研究方向）
 
-- 简介: 该项目研究如何利用制造业产品数据制定相关决策，以促进循环经济策略在制造业中的部署。利用信息论以及数据驱动等方法，本研究实现以下目标:(1)提出工业数据流的随机性模型，(2)对数据流中所 含信息量进行定量分析，(3)利用定量分析结果对有效采集及感知工业现场数据提出准则。工业合作者 包括:罗尔斯·罗伊斯公司(Rolls-Royce Holdings plc)，空中客车公司(AirBus)，以及氢能源车企Riversimple。
-
-- 合作者: [https://www.sheffield.ac.uk/acse/people/ie/index Dr. Iñaki Esnaola], [https://www.sheffield.ac.uk/acse/people/atiwari/profile Prof. Ashutosh Tiwari], [http://business-school.exeter.ac.uk/about/people/profile/index.php?web_id=Fiona_Charnley Prof. Fiona Charnley], and [https://business-school.exeter.ac.uk/about/people/profile/index.php?web_id=Okechukwu_Okorie Dr. Okechukwu Okorie]
-
-- 代表作: 
--- *K. Sun*, I. Esnaola, O. Okorie, F. Charnley, M. Moreno, A. Tiwari, [https://www.sciencedirect.com/science/article/pii/S0360319921020899 ''*Data-driven modeling and monitoring of fuel cell performance*''], International Journal of Hydrogen Energy, vol. 46, no. 66, pp. 33206-33217, Sep. 2021. 
+- 当前，人工智能技术飞速发展，多模态大模型已在智能驾驶、智慧客服、内容生成、医疗诊断等高安全需求场景中得到广泛应用。这些场景对大模型的安全性、可靠性与合规性提出了极高要求。然而，多模态大模型在跨模态融合中仍面临推理过程不透明、生成易产生幻觉、价值对齐困难、有害知识难以消除等系统性的内生安全风险。因此，*亟需从理论、技术与应用层面开展协同创新研究，构建具有内生安全特性的多模态大模型系统*，确保其在动态、开放、对抗的环境下实现全生命周期的可信、可控、可用。\n
+*代表性论文*:
+-- *孙轲*,李玉峰,谢少荣\*,等. 无人系统脆弱性挖掘及一体化安全防护框架\[J\]. 智能安全, 2024, 3(04):65-71.

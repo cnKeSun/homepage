@@ -2,25 +2,43 @@
 = Ke Sun  | Shanghai University |  Biography
  
 == IEEE Style Short Bio
-Dr. Ke Sun (S'15 - M'20 - SM'24) received the Ph.D degree from University of Sheffield, Sheffield, UK, in 2020, the M.Sc. degree from Tongji University, Shanghai, China, and the University of Bologna, Bologna, Italy, in 2015.
-He is currently a Lecturer in School of Computer Engineering and Science, Shanghai University, Shanghai, China. 
-Prior to that, he was a Postdoctoral Researcher in INRIA Centre at Université Côte d’Azur, INRIA, Sophia Antipolis, France, in 2022, and a Postdoctoral Research Associate in University of Sheffield between 2019 and 2021. 
-He is the recipient of the 2023 Shanghai Overseas Talents Program, the 2020 ACSE prize, and the Honorable Mention Award within the Engineering Science Category in the 2020 Doctoral Research Award. 
+Dr. Ke Sun (S'15 - M'20 - SM'24) received the Ph.D degree from the University of Sheffield, Sheffield, UK, in 2020, the M.Sc. degree from Tongji University, Shanghai, China, and the University of Bologna, Bologna, Italy, in 2015.
+He is currently an Associate Professor at the School of Computer Engineering and Science, Shanghai University, Shanghai, China, where he previously served as a Lecturer from 2023 to 2025. 
+He is also the Deputy Director of Shanghai Key Laboratory of Intelligent Connected Vehicle Cybersecurity. 
+Before joining Shanghai University, he was a Postdoctoral Researcher at INRIA Centre at Université Côte d’Azur, INRIA, Sophia Antipolis, France, in 2022, and a Postdoctoral Research Associate at the University of Sheffield between 2019 and 2021. 
+He is the recipient of the First Prize of 2024 Shanghai Technology Invention Award and the 2023 Shanghai Overseas Talents Program. 
 
-His research interests include the security of cyber-physical systems. He serves as TPC member for IEEE SmartGridComm 2023&2024, and as a Reviewer for several journals and conferences, including IET Smart Grid, IEEE Internet Things J., IEEE Trans. Ind. Informat., and IET Cyber-Physical Systems: Theory & Applications. 
+His research interests focus on the cybersecurity of cyber–physical systems and the security of AI. He serves as a TPC member for IEEE SmartGridComm 2023-2025, and as a Reviewer for several journals and conferences, including IET Smart Grid, IEEE TSG, IEEE TII, and IEEE TDSC. 
+
+
+== Grants
+- *Young Scientists Fund of the National Natural Science Foundation of China, PI* \n
+ Grant Number：62403301, Project Duration：Jan. 2025 - Dec. 2027, Funding: 300,000 CNY
+
+- *National Key Research and Development Program of China, PI of Work Package 2* \n
+ Grant Number：2023YFB2504804, Project Duration：Dec. 2023 - Nov. 2026, Funding: 600,000 CNY (my share)
+
+- *Shanghai Pujiang Talents Program, PI* \n
+ Grant Number：23PJ1403000, Project Duration：Oct. 2023 - Sep. 2025, Funding: 300,000 CNY
+
+
 
 == Work Experiences 
-- *Shanghai University, School of Computer Engineering and Science* \n
+- *Shanghai University, School of Computer Engineering and Science*, 
 Shanghai, China\n
-Lecturer, Jan. 2023 - present
+Associate Professor, Mar. 2025 - present
 
-- *INRIA, INRIA Centre at Université Côte d’Azur* \n
+- *Shanghai University, School of Computer Engineering and Science*,
+Shanghai, China\n
+Lecturer, Jan. 2023 - Mar.2025
+
+- *INRIA, INRIA Centre at Université Côte d’Azur*,
 Sophia Antipolis, France\n
 Postdoctoral Researcher, Jan. 2022 - Dec. 2022
 
 
-- *University of Sheffield, Department of Automatic Control and Systems Engineering* \n
-Sheffield , United Kingdom \n
+- *University of Sheffield, Dept. of Automatic Control and Systems Engineering*, 
+Sheffield, UK \n
 Postdoctoral Research Associate, Jun. 2019 - Feb. 2021
 
  
@@ -29,20 +47,15 @@ Postdoctoral Research Associate, Jun. 2019 - Feb. 2021
  == Education
 
 
-- *University of Sheffield* \n
+- *University of Sheffield*, 
 Sheffield, UK \n
 Ph.D., Sep. 2015 - Jan. 2020 \n
 
 
-- *Tongji University * \n
-Shanghai, China \n
+- *Tongji University*, Shanghai, China / *University of Bologna*, Bologna, Italy\n
 MSc, Sep. 2012 - Mar. 2015
 
-- *University of Bologna* \n 
-Bologna, Italy \n
-MSc, Sep. 2012 - Mar. 2015
-
-- *Shandong University of Science and Technology * \n
+- *Shandong University of Science and Technology *, 
 Qingdao, China \n
 BEng, Sep. 2008 - Jul. 2012  
 
@@ -50,6 +63,10 @@ BEng, Sep. 2008 - Jul. 2012
 
 
  == Awards
+
+- First Prize of the 2024 Shanghai Technology Invention Award (11/15). 
+
+- Special Prize of 2024 Teaching Innovation Competition for Shanghai Universities and Colleges (4/4).
 
 - Shanghai Overseas Talents Program of 2023.
 
@@ -59,21 +76,14 @@ BEng, Sep. 2008 - Jul. 2012
 
 - Master degree with Honour (110 e lode) from University of Bologna, Bologna, Italy, in 2015. 
 
-== Talks and Seminars
-
-- NEO Internal Meeting, Network Engineering and Operation (NEO) team, Inria Centre at Université Côte d’Azur, Nov. 2022.
-
-- NEO Internal Meeting, Network Engineering and Operation (NEO) team, INRIA Sophia Antipolis-Méditerranée, Jan. 2022.
-
-- ACSE Research Seminar, Department of Automatic Control and Systems Engineering, University of Sheffield, Dec. 09, 2020. 
-
-
 
 == Technical Services 
 
-- TPC member at 2024 IEEE Int. Conf. on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm).
+- Deputy Director of Shanghai Key Laboratory of Intelligent Connected Vehicle Cybersecurity.
 
-- TPC member at 2023 IEEE Int. Conf. on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm).
+- Early-Career Editorial Board Member of /Artificial Intelligence Security/ Journal. 
+
+- TPC member at 2023-2025 IEEE Int. Conf. on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm).
 
 - Student volunteer at 2019 IEEE Int. Symp. on Inform. Theory at Paris, France.
 
@@ -85,7 +95,7 @@ BEng, Sep. 2008 - Jul. 2012
 - IET Smart Gird \n
 - IEEE Trans. Smart Grid \n
 - IEEE Trans. Information Forensics and Security \n
-- IEEE Transactions on Industrial Informatics \n
+- IEEE Trans. Industrial Informatics \n
 - IEEE Trans. Network Science and Engineering \n
 - IEEE Internet of Things J. \n
 - IEEE Sensors J. \n

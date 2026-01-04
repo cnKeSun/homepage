@@ -3,7 +3,9 @@
 
 == 预印论文 
 
-- *K. Sun\**, I. Esnaola, and H. V. Poor, [[https://arxiv.org/abs/2411.16024 ``*Stealth Attacks Against Moving Target Defense for Smart Grid*''], 2024.
+- *K. Sun*, J. Yan, Z. Li\*, and S. Xie\*, [[https://arxiv.org/abs/2510.21227 ``*The Role of Information Incompleteness in Defending Against Stealth Attacks*''], 2025. (提交至 IEEE Trans. Information Forensics and Security, *中科院一区TOP、CCF A*)
+
+- *K. Sun\**, I. Esnaola, and H. V. Poor, [[https://arxiv.org/abs/2411.16024 ``*Stealth Attacks Against Moving Target Defense for Smart Grid*''], 2024. (提交至 IEEE Trans. Information Forensics and Security，*中科院一区TOP、CCF A*)
 
 == 图书章节
 
@@ -11,9 +13,15 @@
 
 == 期刊论文
 
-- Q. Liu, *K. Sun*, W. Liu, Y. Li\*, X. Zheng, C. Cao, J. Li. and W. Tao, [https://www.sciencedirect.com/science/article/pii/S0951832024006008 ``*Quantitative risk assessment for connected automated vehicles: Integrating improved STPA-SafeSec and Bayesian network*,''] /Reliability Engineering & System Safety/, vol. 253, pp.110528, Jan. 2025. (*中科院一区TOP， IF = 9.4*)
+- Z. Li, Q. Zhu, Y. Cai, *K. Sun\**, Z. Wang, and Y. Peng, [https://ieeexplore.ieee.org/abstract/document/11071913/ ``*Dynamic Multi-Scale Integration Network with Multivariate Interaction for Probabilistic Sea Surface Temperature Forecasting*,''] /IEEE Trans. Geoscience and Remote Sensing/, vol. 53, pp.4209312, Jul. 2025. (*中科院一区TOP， IF = 8.6*)
 
--  X. Dang, G. Zhang, *K. Sun*, and Y. Li\*, [https://www.sciencedirect.com/science/article/pii/S0167404824001925 ``*A trust model for VANETs using malicious-aware multiple routing*,''] /Computers & Security/,  vol. 148, pp. 104145, Jan. 2025 (*中科院二区，CCF B， IF = 4.8*)
+- C. Deng, Y. Li, Q. Liu\*, X. Zheng, *K. Sun\**, [https://onlinelibrary.wiley.com/doi/full/10.1002/qre.3697 ``*Quantitative Risk Assessment for Autonomous Vehicles: Integrating Functional Resonance Analysis Method and Bayesian Network*,''] /Quality and Reliability Engineering International/, vol. 41, no. 3. pp.970 - 991, Apr. 2025. (*IF = 2.8*)
+
+- Q. Liu, *K. Sun*, W. Liu, Y. Li\*, X. Zheng, C. Cao, J. Li. and W. Tao, [https://www.sciencedirect.com/science/article/pii/S0951832024006008 ``*Quantitative risk assessment for connected automated vehicles: Integrating improved STPA-SafeSec and Bayesian network*,''] /Reliability Engineering & System Safety/, vol. 253, pp.110528, Jan. 2025. (*中科院一区TOP， IF = 11*)
+
+-  X. Dang, G. Zhang, *K. Sun*, and Y. Li\*, [https://www.sciencedirect.com/science/article/pii/S0167404824004504 ``*A trust model for VANETs using malicious-aware multiple routing*,''] /Computers & Security/,  vol. 148, pp. 104145, Jan. 2025 (*中科院二区，CCF B， IF = 5.4*)
+
+- *孙轲*,李玉峰,谢少荣\*,等. 无人系统脆弱性挖掘及一体化安全防护框架\[J\]. 智能安全, 2024, 3(04):65-71.
 
 - Q. Liu, X. Li, *K. Sun*, Y. Li\*, and Y. Liu\*, [https://ieeexplore.ieee.org/document/10521910 ``*SISSA: Real-time monitoring of hardware functional safety and cybersecurity with in-vehicle SOME\/IP ethernet traffic*,'']  /IEEE Internet of Things J. /, vol. 11, no. 16, pp.27322-27339, Aug. 2024 (*中科院一区TOP，IF = 8.2*)
 
@@ -45,20 +53,17 @@
 
 - *K. Sun*, W. Shao, Z. Xu, and W. Xu\*, [https://ieeexplore.ieee.org/document/7009285  ``*Islanding partition of the distribution system with distributed generations based on Memetic algorithm,*''] in /Proc. IEEE Int. Conf. on Systems and Informatics/, Shanghai, China, Nov. 2014, pp. 197-201.
 
+== 专利
+
+- *孙轲*，张文伟，晏静怡，李政霖，谢少荣，余航，李玉峰，骆祥峰. *针对虚假数据注入攻击的低开销移动目标防御方法及设备*: 202511426221.X\[P\]. 2025-09-30. (受理)
+
+
+- *孙轲*，晏静怡，李政霖，谢少荣，李玉峰，骆祥峰. [http://epub.cnipa.gov.cn/cred/CN119520110B *非完备系统信息下的隐匿数据注入攻击构建及应对方法*]: 202411673255.4\[P\]. 2025-10-10. （授权）
 
 
 == 技术报告
 
 - *K. Sun*, [https://hal.science/hal-03852615  ``*Some properties of the Nash Equilibrium in 2 × 2 zero-sum games,*''], RR-9492, INRIA, 2022.
-
-== 海报
-
--  I. Esnaola, *K. Sun*, R. Boynton, and M. A. Balikhin, ``What are the solar wind parameters that control fluxes of relativistic electrons at GEO?'', in AGU Fall Meeting, Dec. 2020. 
-
-- *K. Sun*, [https://www.researchgate.net/publication/344215823_An_Information-Theoretic_Approach_to_Cybersecurity_of_Smart_Grid ``*An information-theoretic approach to cybersecurity of smart grid*''], in Proc. 9th National Doctoral Researcher Awards Competition, Virtual Conference, Sep. 2020.
-
-- *K. Sun*, I. Esnaola, A. M. Tulino and H. V. Poor, [https://www.researchgate.net/publication/335222390_Learning_Requirements_for_Stealth_Attacks ``*Learning requirements for stealth attacks*''], in Proc. 5th London Symp. on Inform. Theory , London, UK, May 2019.
-
 
 == 毕业论文
 
