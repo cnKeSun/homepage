@@ -1,9 +1,12 @@
 # jemdoc: menu{MENU}{publications_cn.html}
 = 孙轲  |  上海大学 | 论文发表
 
+
+*\* 表示通讯作者*.
+
 == 预印论文 
 
-- J. Yan, *K. Sun*\*, Z. Li, and H. Jia, [https://arxiv.org/abs/2606.15047 ``*BT-MTD: Bus Traversal-based Moving Target Defense for Smart Grid*''], 2026 (提交至 IEEE Systems Journal, IF:4.9, 中科院3区)
+
 
 - *K. Sun*, J. Yan, Z. Li\*, and S. Xie\*, [https://arxiv.org/abs/2510.21227 ``*The Role of Information Incompleteness in Defending Against Stealth Attacks*''], 2025. (提交至 IEEE Trans. Information Forensics and Security, *中科院一区TOP、CCF A*)
 
@@ -15,9 +18,13 @@
 
 == 期刊论文
 
+- J. Yan, *K. Sun*\*, Z. Li, and H. Jia, [https://arxiv.org/abs/2606.15047 ``*BT-MTD: Bus Traversal-based Moving Target Defense for Smart Grid*''], /IEEE Systems J./, 2026. [https://github.com/YJY101/BT-MTD *Code*] (*IF：4.9*)
+
+- Y. Li, Y. Xu, G. Zhang, J. Li\*, *K. Sun*, and Q. Liu, [https://ieeexplore.ieee.org/abstract/document/11370766  ``*HIPCAM: Data Stream-Driven Group Key Management for In-Vehicle Network with Seamless Key Updates*''], /IEEE Trans. Vehicular Technology /, vol. 75, no. 7, pp.14738 - 14753, Jul. 2026. (*中科院二区TOP，IF=7.4*)
+
 - Z. Li, Q. Zhu, Y. Cai, *K. Sun\**, Z. Wang, and Y. Peng, [https://ieeexplore.ieee.org/abstract/document/11071913/ ``*Dynamic Multi-Scale Integration Network with Multivariate Interaction for Probabilistic Sea Surface Temperature Forecasting*,''] /IEEE Trans. Geoscience and Remote Sensing/, vol. 53, pp.4209312, Jul. 2025. (*中科院一区TOP， IF = 8.6*)
 
-- C. Deng, Y. Li, Q. Liu\*, X. Zheng, *K. Sun\**, [https://onlinelibrary.wiley.com/doi/full/10.1002/qre.3697 ``*Quantitative Risk Assessment for Autonomous Vehicles: Integrating Functional Resonance Analysis Method and Bayesian Network*,''] /Quality and Reliability Engineering International/, vol. 41, no. 3. pp.970 - 991, Apr. 2025. (*IF = 2.8*)
+- C. Deng, Y. Li\*, Q. Liu, X. Zheng, *K. Sun\**, [https://onlinelibrary.wiley.com/doi/full/10.1002/qre.3697 ``*Quantitative Risk Assessment for Autonomous Vehicles: Integrating Functional Resonance Analysis Method and Bayesian Network*,''] /Quality and Reliability Engineering International/, vol. 41, no. 3. pp.970 - 991, Apr. 2025. (*IF = 2.8*)
 
 - Q. Liu, *K. Sun*, W. Liu, Y. Li\*, X. Zheng, C. Cao, J. Li. and W. Tao, [https://www.sciencedirect.com/science/article/pii/S0951832024006008 ``*Quantitative risk assessment for connected automated vehicles: Integrating improved STPA-SafeSec and Bayesian network*,''] /Reliability Engineering & System Safety/, vol. 253, pp.110528, Jan. 2025. (*中科院一区TOP， IF = 11*)
 
