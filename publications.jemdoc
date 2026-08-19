@@ -2,7 +2,9 @@
 = Ke Sun  | Shanghai University |  Publications
  
 
-*\* indicates the corresponding author*.
+*\* indicates the corresponding author*. 
+
+Most of my publications are also available on arXiv if you or your institution does not have access to certain databases.
 
 
 == Preprint 
@@ -17,7 +19,7 @@
 
 == Journals
 
-- J. Yan, *K. Sun*\*, Z. Li, and H. Jia, [https://arxiv.org/abs/2606.15047 ``*BT-MTD: Bus Traversal-based Moving Target Defense for Smart Grid*''], /IEEE Systems J./, 2026. [https://github.com/YJY101/BT-MTD *Code*]
+- J. Yan, *K. Sun*\*, Z. Li, and H. Jia, [https://ieeexplore.ieee.org/document/11657910 ``*BT-MTD: Bus Traversal-based Moving Target Defense for Smart Grid*''], /IEEE Systems J./, 2026. [https://github.com/YJY101/BT-MTD *Code*]
 
 - Y. Li, Y. Xu, G. Zhang, J. Li\*, *K. Sun*, and Q. Liu, [https://ieeexplore.ieee.org/abstract/document/11370766  ``*HIPCAM: Data Stream-Driven Group Key Management for In-Vehicle Network with Seamless Key Updates*''], /IEEE Trans. Vehicular Technology /, vol. 75, no. 7, pp.14738 - 14753, Jul. 2026.
 
