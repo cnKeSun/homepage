@@ -9,8 +9,6 @@ Most of my publications are also available on arXiv if you or your institution d
 
 == Preprint 
 
-- *K. Sun*, J. Yan, Z. Li\*, and S. Xie\*, [https://arxiv.org/abs/2510.21227 ``*The Role of Information Incompleteness in Defending Against Stealth Attacks*''], 2025 (Submitted to IEEE Trans. Information Forensics and Security)
-
 - *K. Sun\**, I. Esnaola, and H. V. Poor, [https://arxiv.org/abs/2411.16024 ``*Stealth Attacks Against Moving Target Defense for Smart Grid*''], 2024. (Submitted to IEEE Trans. Information Forensics and Security)
 
 == Book Chapter 
@@ -18,6 +16,8 @@ Most of my publications are also available on arXiv if you or your institution d
 - I. Esnaola, S. M. Perlaza, and *K. Sun*, [https://hal.archives-ouvertes.fr/hal-03129791/document  ``*Data-Injection Attacks*,''] in [https://www.cambridge.org/core/books/advanced-data-analytics-for-power-systems/D24A86B960FDF7A08687D9D1B853948C ``*Advanced Data Analytics for Power Systems*''], A. Tajer, S. M. Perlaza and H. V. Poor, Eds., Chapter 9, pp. 197-229, Cambridge University Press, Cambridge, UK, 2021.
 
 == Journals
+
+- *K. Sun*, J. Yan, Z. Li\*, and S. Xie\*, [https://arxiv.org/abs/2510.21227 ``*The Role of Information Incompleteness in Defending Against Stealth Attacks*''], /IEEE Trans. Information Forensics and Security/, 2026 (accepted). 
 
 - J. Yan, *K. Sun*\*, Z. Li, and H. Jia, [https://ieeexplore.ieee.org/document/11657910 ``*BT-MTD: Bus Traversal-based Moving Target Defense for Smart Grid*''], /IEEE Systems J./,  vol. 20, no. 3, pp.1177 - 1188, Sep. 2026. [https://github.com/YJY101/BT-MTD *Code*]
 

@@ -9,6 +9,8 @@
 - 在信息物理系统环境中，攻击者隐蔽行动而防御者暴露运作的非对称性被急剧放大。攻击者不仅可通过长期隐蔽渗透利用常规漏洞，更能获取工业通信协议、控制逻辑等高度系统化的专业知识，从而具备发起精确物理破坏性攻击的能力。与此同时，防御方往往对攻击者已掌握多少关键系统知识缺乏清晰认知。这种深刻的认知劣势迫使防御策略陷入被动反应的高度弱势地位。
 为应对这种失衡态势，必须从被动防护转向主动韧性建设。*这一转变需要构建真实攻击模型、模拟对抗行为、推演潜在未知攻击向量，并制定相应的针对性防御措施*。  \n
 *代表性论文*:
+
+-- *K. Sun*, J. Yan, Z. Li\*, and S. Xie\*, [https://arxiv.org/abs/2510.21227 ``*The Role of Information Incompleteness in Defending Against Stealth Attacks*''], /IEEE Trans. Information Forensics and Security/, 2026 (accepted). 
 -- *K. Sun\**, I. Esnaola, A. M. Tulino and H. V. Poor, [https://ieeexplore.ieee.org/abstract/document/10016663 ``*Asymptotic learning requirements for stealth attacks on linearized state estimation*,''] /IEEE Trans. Smart Grid/, vol. 14, no. 4, pp. 3189 - 3200, Jul. 2023. 
 -- *K. Sun* and Z. Li\*, [https://ieeexplore.ieee.org/document/9771474 ``*Sparse data injection attacks on smart grid: An information-theoretic approach*,''] /IEEE Sensors Journal/, vol. 22, no. 14, pp. 14553 - 14562, Jul. 2022. 
 -- *K. Sun\**, I. Esnaola, S. M. Perlaza, and H. V. Poor, [https://ieeexplore.ieee.org/document/8799014 ``*Stealth attacks on the smart grid*,''] /IEEE Trans. Smart Grid/,  vol. 11 , no. 2, pp. 1276-1285, Mar. 2020.
